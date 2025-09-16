@@ -73,4 +73,3 @@ pay_equity_analysis/
 Carolann Decasiano  
 Master’s in Applied Data Science  
 [LinkedIn](https://www.linkedin.com/in/carolann-decasiano/) | [GitHub](https://github.com/cicasiano)
-"""
